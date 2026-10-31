@@ -1,0 +1,8 @@
+{
+  "gui.melhorias.refresh_offers": "Atualizar ofertas",
+  "gui.melhorias.fishing": "PESCANDO",
+  "gui.melhorias.fished": "VOCÊ PESCOU",
+  "message.melhorias.refresh.invalid": "Este aldeão não pode ter as ofertas atualizadas.",
+  "message.melhorias.refresh.locked": "As ofertas já estão travadas por negociações realizadas.",
+  "message.melhorias.refresh.cooldown": "Aguarde um instante para atualizar novamente."
+}

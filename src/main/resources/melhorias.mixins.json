@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "melhorias.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractVillagerAccessor",
+    "VillagerInvoker",
+    "MerchantMenuAccessor",
+    "FishingHookMixin"
+  ],
+  "client": [
+    "BoatMixin",
+    "MerchantScreenMixin",
+    "SessionSearchTreesMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

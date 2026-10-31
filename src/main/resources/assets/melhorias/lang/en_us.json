@@ -1,0 +1,8 @@
+{
+  "gui.melhorias.refresh_offers": "Refresh offers",
+  "gui.melhorias.fishing": "FISHING",
+  "gui.melhorias.fished": "YOU CAUGHT",
+  "message.melhorias.refresh.invalid": "This villager's offers cannot be refreshed.",
+  "message.melhorias.refresh.locked": "Offers are already locked by completed trades.",
+  "message.melhorias.refresh.cooldown": "Wait a moment before refreshing again."
+}
